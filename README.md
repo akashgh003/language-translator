@@ -75,6 +75,3 @@ We welcome contributions! Follow these steps to contribute to the project:
 
 This project is licensed under the MIT License.
 
-## 🌟 Acknowledgements
-
-Special thanks to all contributors and the open-source community for their valuable support and contributions.
