@@ -71,7 +71,4 @@ We welcome contributions! Follow these steps to contribute to the project:
 
 5. **Open a pull request.**
 
-## 📜 License
-
-This project is licensed under the MIT License.
 
