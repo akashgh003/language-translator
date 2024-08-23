@@ -2,7 +2,7 @@
 
 Welcome to the **Language Translator App**! This React application helps you translate text from one language to another in real time.
 
-## 🚀 Features
+##  Features
 
 - 🌐 **Multi-language support:** Translate text into multiple languages.
 - ⏱️ **Real-time translation:** Instant translation as you type.
