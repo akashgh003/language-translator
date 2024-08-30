@@ -43,7 +43,6 @@ To get started with the project, follow these steps:
 ## 🧑‍💻 Technologies Used
 
 - **React:** JavaScript library for building user interfaces.
-- **Axios:** Promise-based HTTP client for the browser and Node.js.
 - **CSS Modules:** Scoped and modular CSS for styling.
 
 ## 🤝 Contributing
