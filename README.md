@@ -32,7 +32,7 @@ To get started with the project, follow these steps:
     npm start
     ```
 
-    The app will be available at `http://localhost:3000`.
+
 
 ## 📚 Usage
 
